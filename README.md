@@ -8,7 +8,7 @@ Soy un **Tecnólogo en Análisis y Desarrollo de Software**, con experiencia en 
 
 📧 **Correo:** [mmiigguel2016@gmail.com](mmiigguel2016@gmail.com)
 
-📱 **Teléfono:** +573124284674
+📱 **Teléfono:** +57 3124284674
 <!--
 **MiguelRodriguez-P/MiguelRodriguez-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
