@@ -6,7 +6,9 @@ Soy un **Tecnólogo en Análisis y Desarrollo de Software**, con experiencia en 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20Profesional-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/tu-usuario-linkedin/)
 
+📧 **Correo:** [coloca-tu-correo-aquí@gmail.com](mmiigguel2016@gmail.com)
 
+📱 **Teléfono:** +573124284674
 <!--
 **MiguelRodriguez-P/MiguelRodriguez-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
