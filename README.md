@@ -4,9 +4,9 @@ Soy un **Tecnólogo en Análisis y Desarrollo de Software**, con experiencia en 
 
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20Profesional-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/tu-usuario-linkedin/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20Profesional-blue?logo=linkedin&style=flat-square)](www.linkedin.com/in/miguel-rodriguez01)
 
-📧 **Correo:** [coloca-tu-correo-aquí@gmail.com](mmiigguel2016@gmail.com)
+📧 **Correo:** [mmiigguel2016@gmail.com](mmiigguel2016@gmail.com)
 
 📱 **Teléfono:** +573124284674
 <!--
